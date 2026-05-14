@@ -1,2 +1,2 @@
 # Practica1_devops
-#Autora: Yuleydi De Los Santos
+Autora: Yuleydi De Los Santos
